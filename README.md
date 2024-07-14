@@ -19,7 +19,7 @@ This project aims to enhance current fraud detection mechanisms using **Conditio
 - **Maintaining User Privacy and Data Security**: Ensuring compliance with privacy standards while improving detection capabilities.
 
 ## Architecture
-![Architecture Diagram]("C:\Users\anusm\Downloads\CGAN.pdf")
+![Architecture Diagram](""C:\Users\anusm\Downloads\CGAN.png"")
 
 The system architecture includes the following key components:
 1. **Data Collection and Preprocessing**: Collecting and preprocessing transaction data to ensure quality and diversity.
