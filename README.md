@@ -1,5 +1,5 @@
 # Digital Payments Fraud Detection using CGANs
-
+This Project is made for Silicon valley immersion program 2024
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Architecture](#architecture)
